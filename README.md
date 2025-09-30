@@ -1,7 +1,7 @@
 # Hi, I'm Satyam Naik 👋
 
 🎓 B.Tech in Electronics & Computer Science (2026)  
-💻 Backend Developer | Java • Spring Boot • React • SQL  
+💻 Backend Developer | Java • Spring Boot • SQL  
 🚀 Passionate about building scalable applications and solving real-world problems  
 
 ---
@@ -9,8 +9,8 @@
 ## 🔧 Skills
 
 - **Languages:** Java, Python, C, C++  
-- **Frameworks & Libraries:** Spring Boot, Spring Security, React.js, Next.js, MapStruct  
-- **Databases & Tools:** MySQL, PostgreSQL, REST APIs, JWT, Docker  
+- **Frameworks & Libraries:** Spring Boot, Spring Security, MapStruct  
+- **Databases & Tools:** MySQL, REST APIs, JWT
 - **CS Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Operating Systems  
 
 ---
@@ -49,7 +49,6 @@ Vendor discovery & review platform.
 
 ## 📊 GitHub Stats
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatyamNaik009&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamNaik009&layout=compact&theme=radical)  
 
 ---
