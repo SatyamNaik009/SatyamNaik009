@@ -62,7 +62,7 @@ Vendor discovery & review platform.
 
 ## 🌐 Connect with Me
 
-📌 [LinkedIn](https://www.linkedin.com/in/your-link)  
+📌 [LinkedIn](https://www.linkedin.com/in/satyam-naik-890349258/)
 📌 [Resume](link-to-resume.pdf)  
 📌 [GitHub Projects](https://github.com/SatyamNaik009?tab=repositories)  
 
